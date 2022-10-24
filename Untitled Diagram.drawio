@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T06:53:05.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-y7en8sC5NHBP1XpXB2w" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T07:00:53.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9YaTgZfETTXlTXkKr3tR" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1497" dy="1927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2430" dy="1973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,6 +264,27 @@
         </mxCell>
         <mxCell id="d_n8zwm-F2Okk0-HnORZ-10" value="No. of Cars of&amp;nbsp;&lt;br&gt;a particular variant" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="1">
           <mxGeometry x="1149" y="166" width="121" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="d_n8zwm-F2Okk0-HnORZ-12" value="Manufacturing Plant" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="-291" y="256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_n8zwm-F2Okk0-HnORZ-13" value="Plant_ID" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="-431" y="213" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_n8zwm-F2Okk0-HnORZ-14" value="City" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="-362" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_n8zwm-F2Okk0-HnORZ-15" value="State" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="-248" y="156" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_n8zwm-F2Okk0-HnORZ-16" value="Variants Manufactured" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="-142" y="183" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_n8zwm-F2Okk0-HnORZ-17" value="Manufactures" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="256" width="95" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="d_n8zwm-F2Okk0-HnORZ-18" value="Manager" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="-221" y="365" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
